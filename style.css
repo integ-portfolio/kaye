@@ -1,0 +1,30 @@
+.header .links a{
+    margin-right: 2rem;
+    font-weight: 700;
+}
+.header .list .bi-list{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.header .list .bi-list:hover{
+    color: darkorange;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.social-media{
+    flex-wrap: wrap;
+}
+.social-media i{
+    color: #fff;
+}
+.social-media i:hover{
+    color: #333;
+}
+body{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    width: 100vw;
+    height: 100vh;
+}
